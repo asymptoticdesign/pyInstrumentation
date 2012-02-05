@@ -1,3 +1,21 @@
+"""
+Title: instrumentDriver
+Description: A multi-purpose instrumentation driver for controlling lab equipment with python
+Date Started: 24 Jan 2012
+Last Modified: 5 Feb 2012
+http://asymptoticdesign.wordpress.com/
+This work is licensed under a Creative Commons 3.0 License.
+(Attribution - NonCommerical - ShareAlike)
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+In summary, you are free to copy, distribute, edit, and remix the work.
+Under the conditions that you attribute the work to the author, it is for
+noncommercial purposes, and if you build upon this work or otherwise alter
+it, you may only distribute the resulting work under this license.
+
+Of course, these permissions may be waived with permission from the author.
+"""
+
 import os
 import serial
 
