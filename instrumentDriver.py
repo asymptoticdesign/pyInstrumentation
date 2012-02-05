@@ -21,6 +21,7 @@ import serial
 
 """Function to looks for connected USB instruments"""
 def list_instruments():
+       #This isn't implemented yet.
        inst_list = []
        return inst_list
 
